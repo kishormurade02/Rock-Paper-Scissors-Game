@@ -15,9 +15,9 @@ Technologies Used:
 - CSS  
 - JavaScript  
 
-How to Play:
-1.Clone the repository to your local machine.  
-2.Open the index.html file in your web browser.  
-3.Click on one of the choices (Rock, Paper, or Scissors) to play the game.  
-4.The computer will make a random choice.  
-5.The result of the game will be displayed, and the scores will be updated accordingly.
+How to Play:  
+1. Clone the repository to your local machine.  
+2. Open the index.html file in your web browser.  
+3. Click on one of the choices (Rock, Paper, or Scissors) to play the game.  
+4. The computer will make a random choice.  
+5. The result of the game will be displayed, and the scores will be updated accordingly.
